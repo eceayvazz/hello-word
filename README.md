@@ -1,2 +1,3 @@
 # hello-word
 repository test
+ı'm very excited about learning new things.Acıktımm...
